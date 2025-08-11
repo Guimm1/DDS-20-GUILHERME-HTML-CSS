@@ -1,0 +1,14 @@
+body{
+    background-color: gray;
+    text-align: center;
+}
+
+.quadro{
+    background-color: rgb(255, 0, 0);
+    color: black;
+    margin: 20px ;
+    padding: green 20px ;
+    width: 500px;
+    height: 200px;
+    display: inline-block;
+} 
