@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "COMIC.TTF";
+    src: url(./fonts/COMIC.TTF);}
+
+
+#primeiro{
+    color: red;
+    font-family: Arial, sans-serif;
+}
+
+#segundo{
+    font-family: Times, serif;
+    color: green;
+    font-size: 22px;
+}
+
+#terceiro{
+    font-family:'COMIC.TTF';
+    font-size: 20px;
+    color: blue;
+    font-style: italic;
+}
+
+#quato{
+    
+}
