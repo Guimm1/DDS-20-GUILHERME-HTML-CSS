@@ -131,6 +131,10 @@ function calculo(n1,n2){
 var final = calculo(3,5)
 console.log("A conta deu " + final);
 
+//Exercicio
+
+
+
 
 
 
